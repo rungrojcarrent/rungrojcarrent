@@ -1,4 +1,4 @@
-## Hi there 👋 rungrojcarrentudon
+## Hi there 👋 rungrojcarrent
 
 ![Banner image](https://github.com/rungrojcarrent/rungrojcarrent/blob/main/rungroj_logo_m.png)
 
